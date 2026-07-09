@@ -1,0 +1,9 @@
+venv/
+jupyter_env/
+.ipynb_checkpoints/
+sklearn_cache/
+__pycache__/
+*.pyc
+*.csv
+*.pkl
+.idea/
