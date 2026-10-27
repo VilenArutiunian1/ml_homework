@@ -1,0 +1,18 @@
+venv/
+jupyter_env/
+.ipynb_checkpoints/
+sklearn_cache/
+__pycache__/
+*.pyc
+*.csv
+*.pkl
+.idea/
+catboost_info/
+*.xlsx
+.env
+
+# материалы курса (практики и разборы) не публикуем
+Practice_*.ipynb
+Разбор_*.ipynb
+t_sne.ipynb
+Прикладная разработка на Python/
